@@ -11,3 +11,6 @@ It can be only problem that they would like to solve or even whole draft (that d
 Others can update/add to existing proposal.
 <br/>
 It should have system to link proposals as duplicates and to somehow merge them (?), and to link existing solutions for mentioned problem.
+<br/>
+<br/>
+NOTE: whole specification will be added later (so we have some type of roadmap to track)
